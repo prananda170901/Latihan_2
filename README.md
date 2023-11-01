@@ -8,4 +8,4 @@
 ![gambar](Gambar/2023-10-31%20(2).png)
 
 ### Gambar Tampilan Penjualan Barang
-![gambar](gambar/2023-10-31.png)
+![gambar](Gambar/2023-10-31.png)
